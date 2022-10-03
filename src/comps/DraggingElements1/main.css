@@ -1,0 +1,26 @@
+.draggable-menu {
+    border-radius: 8px;
+    position: absolute;
+    background-color: #fff;
+    top: 0;
+    left: 0;
+  }
+  
+  .draggable-menu + .draggable-menu {
+    left: 400px;
+  }
+  
+  .draggable-menu ul li {
+    display: flex;
+    align-items: center;
+    padding: .5rem 1rem;
+    flex: 1;
+  }
+  
+  .draggable-menu ul li:hover {
+    background-color: lightgray;
+  }
+  
+  .draggable-menu ul li .fas {
+    margin-right: .5rem;
+  }

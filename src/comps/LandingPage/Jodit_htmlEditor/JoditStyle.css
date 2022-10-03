@@ -1,0 +1,12 @@
+.jodit-wrapper .jodit-container .jodit-status-bar{
+    display: none  !important;
+}
+.jodit-wrapper .jodit-container {
+    border: 0px !important;
+}
+.jodit-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_about{
+    display: none !important;
+}
+.jodit-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_print {
+    display: none !important;
+}

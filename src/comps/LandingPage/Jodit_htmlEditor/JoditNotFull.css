@@ -1,0 +1,76 @@
+.joditNotFull-wrapper .jodit-container .jodit-status-bar{
+    display: none  !important;
+}
+.joditNotFull-wrapper .jodit-container {
+    border: 0px !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_about{
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_print {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_preview {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_fullsize {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_source {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_find {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_symbol {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_eraser {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_dots {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_classSpan {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_image {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_copyformat {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_link {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-spacer {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_table {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_subscript {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_undo {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_redo {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_hr {
+    display: none !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-toolbar__box .jodit-toolbar-editor-collection .jodit-ui-group .jodit-ui-group .jodit-toolbar-button_superscript {
+    display: none !important;
+}
+.joditNotFull-wrapper  .jodit-container  .jodit-toolbar__box .jodit-toolbar-editor-collection  .jodit-ui-group  .jodit-ui-group_separated_true:not(:last-child):not(.jodit-ui-group_before-spacer_true):after{
+    border-right:0px !important;
+}
+.joditNotFull-wrapper .jodit-container .jodit-workplace{
+    min-height: 205px !important;
+}
+.height-in-templates .jodit-container .jodit-workplace{
+    min-height: 290px !important;
+}
+
